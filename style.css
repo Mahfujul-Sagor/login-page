@@ -155,9 +155,9 @@ body {
 }
 
 .others i {
-  margin: 0 .6rem;
+  margin: 0 0.6rem;
 }
 
 .others:hover {
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.3);
 }
